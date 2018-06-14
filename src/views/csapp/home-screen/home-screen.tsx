@@ -22,12 +22,12 @@ const HEADER: TextStyle = {
   textAlign: "center",
 }
 
-export interface IndexScreenProps extends NavigationScreenProps<{}> {
+export interface HomeScreenProps extends NavigationScreenProps<{}> {
   toDoStore: ToDoStore
 }
 
 @inject("toDoStore")
-export class IndexScreen extends React.Component<IndexScreenProps, {}> {
+export class HomeScreen extends React.Component<HomeScreenProps, {}> {
   toDoList = () => {
     this.props.toDoStore.loadTodos()
     this.props.navigation.navigate("toDoList")
@@ -43,8 +43,8 @@ export class IndexScreen extends React.Component<IndexScreenProps, {}> {
           backgroundColor={color.transparent}
           preset="scrollStack"
         >
-          <Text preset="header" text={"Examples"} style={HEADER} />
-          <Button preset="link" onPress={this.toDoList} text={"ToDoList"} />
+          <Text preset="header" text={"Home Screen"} style={HEADER} />
+          <Button preset="link" onPress={this.toDoList} text={"My Todos"} />
         </Screen>
       </View>
     )

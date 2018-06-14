@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "BowserExamples.app"
-               BlueprintName = "BowserExamples"
-               ReferencedContainer = "container:BowserExamples.xcodeproj">
+               BuildableName = "CSAppPOC.app"
+               BlueprintName = "CSAppPOC"
+               ReferencedContainer = "container:CSAppPOC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BowserExamplesTests.xctest"
-               BlueprintName = "BowserExamplesTests"
-               ReferencedContainer = "container:BowserExamples.xcodeproj">
+               BuildableName = "CSAppPOCTests.xctest"
+               BlueprintName = "CSAppPOCTests"
+               ReferencedContainer = "container:CSAppPOC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BowserExamplesTests.xctest"
-               BlueprintName = "BowserExamplesTests"
-               ReferencedContainer = "container:BowserExamples.xcodeproj">
+               BuildableName = "CSAppPOCTests.xctest"
+               BlueprintName = "CSAppPOCTests"
+               ReferencedContainer = "container:CSAppPOC.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BowserExamples.app"
-            BlueprintName = "BowserExamples"
-            ReferencedContainer = "container:BowserExamples.xcodeproj">
+            BuildableName = "CSAppPOC.app"
+            BlueprintName = "CSAppPOC"
+            ReferencedContainer = "container:CSAppPOC.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BowserExamples.app"
-            BlueprintName = "BowserExamples"
-            ReferencedContainer = "container:BowserExamples.xcodeproj">
+            BuildableName = "CSAppPOC.app"
+            BlueprintName = "CSAppPOC"
+            ReferencedContainer = "container:CSAppPOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BowserExamples.app"
-            BlueprintName = "BowserExamples"
-            ReferencedContainer = "container:BowserExamples.xcodeproj">
+            BuildableName = "CSAppPOC.app"
+            BlueprintName = "CSAppPOC"
+            ReferencedContainer = "container:CSAppPOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

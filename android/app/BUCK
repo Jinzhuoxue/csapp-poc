@@ -45,12 +45,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.bowserexamples",
+    package = "com.csapppoc",
 )
 
 android_resource(
     name = "res",
-    package = "com.bowserexamples",
+    package = "com.csapppoc",
     res = "src/main/res",
 )
 

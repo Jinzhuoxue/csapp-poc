@@ -1,4 +1,4 @@
-package com.bowserexamples;
+package com.csapppoc;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "BowserExamples";
+        return "CSAppPOC";
     }
 }

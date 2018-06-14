@@ -1,9 +1,9 @@
 import { StackNavigator } from "react-navigation"
-import { ExampleNavigator } from "./example-navigator"
+import { CSAppNavigator } from "./csapp-navigator"
 
 export const RootNavigator = StackNavigator(
   {
-    exampleStack: { screen: ExampleNavigator },
+    exampleStack: { screen: CSAppNavigator },
   },
   {
     headerMode: "none",
