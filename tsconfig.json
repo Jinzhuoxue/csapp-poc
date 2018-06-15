@@ -1,3 +1,7 @@
+/*
+* This file contains all the settings for the TypeScript compile
+*/
+
 {
   "compilerOptions": {
     "allowJs": false,
