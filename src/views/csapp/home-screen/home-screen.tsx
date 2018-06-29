@@ -30,7 +30,7 @@ export interface HomeScreenProps extends NavigationScreenProps<{}> {
 export class HomeScreen extends React.Component<HomeScreenProps, {}> {
   toDoList = () => {
     this.props.toDoStore.loadTodos()
-    this.props.navigation.navigate("toDoList")
+    this.props.navigation.navigate("Container1")
   }
 
   render() {
